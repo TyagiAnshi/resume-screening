@@ -1,0 +1,50 @@
+CANDIDATE C
+Full Stack Developer | 3 Years Experience
+Email: candidate.c@email.com | Phone: +1-416-555-XXXX
+Location: Toronto, Canada (Remote)
+
+─────────────────────────────────────────────
+PROFILE
+─────────────────────────────────────────────
+Enthusiastic developer with 3 years of experience building web applications.
+Strong focus on JavaScript and React on the frontend, with Node.js for backend services.
+Looking to transition into backend-heavy roles and grow into data engineering.
+
+─────────────────────────────────────────────
+EXPERIENCE
+─────────────────────────────────────────────
+
+Frontend Developer (with Backend Duties) | WebAgency Ltd.       Jan 2022 – Present
+- Built React/Next.js web applications for 5+ client projects
+- Wrote REST APIs in Node.js/Express; integrated with MongoDB
+- Set up basic CI/CD pipelines using GitHub Actions
+- Led frontend development for a small team of 4 engineers
+
+Junior Developer | StartupHQ                                    Jun 2021 – Dec 2021
+- Built landing pages and UI components in React
+- Integrated Stripe payment API
+- Bug fixes and feature work on a Django REST API
+
+Freelance Web Developer                                         2020 – 2021
+- Built websites for local businesses using WordPress and basic PHP
+
+─────────────────────────────────────────────
+SKILLS
+─────────────────────────────────────────────
+Languages:     JavaScript, TypeScript, Python (beginner), PHP
+Frontend:      React, Next.js, HTML, CSS, Tailwind
+Backend:       Node.js, Express, Django (basic)
+Databases:     MongoDB, MySQL, basic PostgreSQL
+Cloud:         Firebase, Heroku, Vercel; some AWS (S3, Lambda — tutorials only)
+Other:         Git, GitHub Actions, REST APIs, Docker (basic)
+
+─────────────────────────────────────────────
+EDUCATION
+─────────────────────────────────────────────
+B.Sc. Information Technology | University of Lagos               2017 – 2021
+
+─────────────────────────────────────────────
+INTERESTS
+─────────────────────────────────────────────
+Interested in data engineering. Currently taking an online course on Apache Kafka
+and watching tutorials on distributed systems.

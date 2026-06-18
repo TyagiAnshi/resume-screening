@@ -1,0 +1,50 @@
+CANDIDATE B
+Backend Engineer | 5 Years Experience
+Email: candidate.b@email.com | Phone: +44-7700-XXXXXX
+Location: London, UK
+
+─────────────────────────────────────────────
+SUMMARY
+─────────────────────────────────────────────
+Backend engineer with 5 years of experience in Python and distributed systems.
+Solid foundation in microservices architecture and cloud infrastructure. Some exposure to
+event-driven systems. Interested in transitioning into a more data-centric platform role.
+
+─────────────────────────────────────────────
+EXPERIENCE
+─────────────────────────────────────────────
+
+Backend Engineer | FinTech Solutions Ltd.                       Sep 2021 – Present
+- Built and maintained Python (FastAPI/Flask) microservices for payment processing
+- Managed PostgreSQL databases; optimised slow queries and designed indexing strategies
+- Used Kafka for publishing payment events; consumed topics in downstream services
+- Deployed services on AWS (EC2, RDS, SQS) using basic Terraform scripts
+- Participated in on-call rotation; responded to production incidents
+- Conducted code reviews for 2 junior developers
+
+Junior Backend Engineer | RetailApp Co.                        Mar 2019 – Aug 2021
+- Built CRUD APIs in Python/Django for a retail management platform
+- Implemented Redis caching to reduce database load
+- Integrated third-party APIs (Stripe, Sendgrid)
+- Wrote unit and integration tests (pytest)
+
+─────────────────────────────────────────────
+SKILLS
+─────────────────────────────────────────────
+Languages:     Python (strong), SQL, JavaScript (basic)
+Messaging:     Kafka (producer/consumer basics), RabbitMQ
+Cloud:         AWS (EC2, RDS, SQS, S3), Terraform (basic)
+Databases:     PostgreSQL, Redis, MySQL
+Frameworks:    FastAPI, Flask, Django
+Testing:       pytest, unittest
+Other:         Docker, Git, REST API design
+
+─────────────────────────────────────────────
+EDUCATION
+─────────────────────────────────────────────
+BSc Computer Science | University of Edinburgh                  2015 – 2019
+
+─────────────────────────────────────────────
+CERTIFICATIONS
+─────────────────────────────────────────────
+- AWS Cloud Practitioner (2022)

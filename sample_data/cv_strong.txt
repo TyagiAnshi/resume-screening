@@ -1,0 +1,62 @@
+CANDIDATE A
+Senior Data Engineer | 7 Years Experience
+Email: candidate.a@email.com | Phone: +91-98765-XXXXX
+Location: Bangalore, India
+
+─────────────────────────────────────────────
+SUMMARY
+─────────────────────────────────────────────
+Backend engineer with 7 years of experience building large-scale data platforms and streaming
+systems. Deep hands-on work with Kafka, Flink, and Spark across high-throughput production
+environments. Passionate about distributed systems reliability and engineering mentorship.
+
+─────────────────────────────────────────────
+EXPERIENCE
+─────────────────────────────────────────────
+
+Senior Data Engineer | DataStream Inc.                          Aug 2021 – Present
+- Architected and operate a Kafka + Flink pipeline processing 8B events/day for 150+ enterprise clients
+- Reduced P99 ingestion latency from 420ms to 65ms through partition rebalancing and state store tuning
+- Built Python microservices (FastAPI) for the transformation API layer, serving 40k req/s peak load
+- Defined SLOs and set up Datadog dashboards + PagerDuty alerting for the entire data platform
+- Migrated on-prem infrastructure to AWS EKS using Terraform; reduced infra cost by 34%
+- Mentored 3 junior engineers; introduced structured code review process adopted across 2 teams
+- Open-sourced flink-schema-registry-connector (312 GitHub stars)
+
+Backend Engineer | Zeta Technologies                            Jun 2018 – Jul 2021
+- Built real-time fraud detection pipeline using Kafka Streams and Python
+- Designed a multi-tenant data ingestion service handling 500M events/day
+- Implemented ClickHouse-based analytics query layer (10x query speedup vs PostgreSQL for OLAP)
+- Contributed to internal Airflow plugin for dependency-aware DAG scheduling
+- Used Terraform (AWS) for provisioning and maintaining data infrastructure
+
+Software Engineer | Startup Co.                                 Jul 2017 – May 2018
+- Built REST APIs in Python/Django for an e-commerce platform
+- Maintained PostgreSQL schemas and Redis caching layer
+
+─────────────────────────────────────────────
+SKILLS
+─────────────────────────────────────────────
+Languages:        Python (expert), Go (proficient), SQL, Bash
+Streaming:        Apache Kafka, Apache Flink, Spark Streaming
+Cloud & Infra:    AWS (EKS, S3, RDS, MSK, Lambda), Terraform, GitHub Actions
+Databases:        PostgreSQL, ClickHouse, Redis, DynamoDB
+Observability:    Datadog, OpenTelemetry, PagerDuty, Prometheus
+Orchestration:    Apache Airflow, dbt
+
+─────────────────────────────────────────────
+EDUCATION
+─────────────────────────────────────────────
+B.Tech Computer Science | IIT Bombay                            2013 – 2017
+
+─────────────────────────────────────────────
+OPEN SOURCE
+─────────────────────────────────────────────
+- flink-schema-registry-connector — 312 stars
+- Contributor to Apache Flink (3 merged PRs)
+
+─────────────────────────────────────────────
+CERTIFICATIONS
+─────────────────────────────────────────────
+- AWS Solutions Architect – Associate (2023)
+- Confluent Certified Developer for Apache Kafka (2022)

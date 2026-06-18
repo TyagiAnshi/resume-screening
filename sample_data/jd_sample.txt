@@ -1,0 +1,49 @@
+Job Title: Senior Backend Engineer — Data Platform
+Company: Meridian Analytics (Series B, ~150 employees)
+Location: Remote (APAC/EMEA preferred) | Full-time
+
+─────────────────────────────────────────────
+About the Role
+─────────────────────────────────────────────
+We're looking for a Senior Backend Engineer to join our Data Platform team.
+You'll own the ingestion, transformation, and serving layer of our real-time analytics
+pipeline — the backbone that processes ~5 billion events/day across 200+ enterprise customers.
+
+This is a high-ownership role. You'll work directly with the VP of Engineering and
+partner closely with ML engineers, data scientists, and product managers.
+
+─────────────────────────────────────────────
+What You'll Do
+─────────────────────────────────────────────
+- Design, build, and operate distributed data pipelines (Kafka, Spark, Flink) at scale
+- Own the Python/Go microservices that power our ingestion and transformation APIs
+- Lead architectural decisions: schema design, data modelling, system reliability
+- Mentor 2-3 junior engineers; conduct code reviews and establish engineering standards
+- Collaborate cross-functionally to translate business requirements into technical specs
+- Drive observability: define SLOs, set up alerting, own production incidents
+- Contribute to open-source tooling the team publishes (active GitHub presence a plus)
+
+─────────────────────────────────────────────
+What We're Looking For
+─────────────────────────────────────────────
+Must-have:
+- 5+ years backend engineering, with at least 2 years on data/streaming systems
+- Deep proficiency in Python; working knowledge of Go or Rust is a bonus
+- Hands-on experience with streaming technologies (Kafka, Flink, Spark Streaming, or equivalent)
+- Cloud platform expertise: AWS (preferred), GCP, or Azure — infrastructure-as-code (Terraform)
+- Strong understanding of distributed systems concepts: CAP theorem, partitioning, fault tolerance
+- Proven track record of owning and shipping production systems end-to-end
+
+Nice-to-have:
+- Experience with dbt, Airflow, or similar orchestration tools
+- Familiarity with ClickHouse, Druid, or other OLAP databases
+- Prior experience in a startup or high-growth engineering environment
+- Open-source contributions
+- Experience mentoring junior engineers
+
+─────────────────────────────────────────────
+Our Stack
+─────────────────────────────────────────────
+Python 3.11 · Go 1.22 · Apache Kafka · Apache Flink · Apache Spark
+PostgreSQL · ClickHouse · Redis · AWS (EKS, S3, RDS, MSK)
+Terraform · GitHub Actions · Datadog · OpenTelemetry
